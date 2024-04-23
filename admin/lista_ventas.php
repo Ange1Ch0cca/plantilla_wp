@@ -90,12 +90,12 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Datatables</h4>
+                                    <h4 class="mb-0 font-size-18">Ventas</h4>
 
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
-                                            <li class="breadcrumb-item active">Datatables</li>
+                                            <li class="breadcrumb-item"><a href="panel.php">Multiarticulos Perú</a></li>
+                                            <li class="breadcrumb-item active">Ventas</li>
                                         </ol>
                                     </div>
                                     
@@ -109,21 +109,20 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="card-title">Buttons example</h4>
+                                        <h4 class="card-title"></h4>
                                         <p class="card-subtitle mb-4">
-                                            The Buttons extension for DataTables provides a common set of options, API methods and styling to display buttons on a page
-                                            that will interact with a DataTable. The core library provides the based framework upon which plug-ins can built.
+                                            
                                         </p>
 
                                         <table id="datatable-buttons" class="table table-striped dt-responsive nowrap">
                                             <thead>
                                                 <tr>
-                                                    <th>Name</th>
-                                                    <th>Position</th>
-                                                    <th>Office</th>
-                                                    <th>Age</th>
-                                                    <th>Start date</th>
-                                                    <th>Salary</th>
+                                                    <th>Fecha</th>
+                                                    <th>Cliente</th>
+                                                    <th>Total</th>
+                                                    <th>Productos</th>
+                                                    <th>Estado</th>
+                                                    <th>Acciones</th>
                                                 </tr>
                                             </thead>
                                         
