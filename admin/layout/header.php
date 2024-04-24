@@ -32,7 +32,7 @@
                                     <span>Bloquear Cuenta</span>
                                 </a>
                                 <a class="dropdown-item d-flex align-items-center justify-content-between"
-                                    href="javascript:void(0)">
+                                    href="logout.php">
                                     <span>Cerrar Sesión</span>
                                 </a>
                             </div>

@@ -113,7 +113,7 @@
                                     <p class="card-subtitle mb-4">
                                     </p>
 
-                                    <table id="selection-datatable" class="table dt-responsive nowrap">
+                                    <table id="datatable-buttons" class="table table-striped dt-responsive nowrap">
                                         <thead>
                                             <tr>
                                                 <th>#</th>

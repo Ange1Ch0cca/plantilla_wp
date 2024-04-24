@@ -35,7 +35,7 @@
 
             <li>
                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                        class="fas fa-tag"></i><span>Productos</span></a>
+                        class="fas fa-tags"></i><span>Productos</span></a>
                 <ul class="sub-menu" aria-expanded="false">
                     <li><a href="lista_productos.php">Lista de Productos</a></li>
                     <li><a href="categorias.php">Categorias</a></li>

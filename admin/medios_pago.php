@@ -88,7 +88,7 @@
 
                     <div class="row">
                         <div class="col-12">
-                            <div class="d-flex align-items-center min-vh-100">
+                            <div class="page-title-box d-flex align-items-center justify-content-between">
                                 <div class="w-100 d-block bg-white shadow-lg rounded my-5">
                                     <div class="row">
                                         <div class="col-lg-12">
