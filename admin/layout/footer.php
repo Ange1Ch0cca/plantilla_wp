@@ -6,7 +6,7 @@
                             </div>
                             <div class="col-sm-6">
                                 <div class="text-sm-right d-none d-sm-block">
-                                    Desarrollado por <a href="https://wa.link/v3eggg">Angelito</a>
+                                    Desarrollado por <a target="_blank" href="https://wa.link/v3eggg">Angelito</a>
                                 </div>
                             </div>
                         </div>

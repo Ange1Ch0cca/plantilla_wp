@@ -90,12 +90,12 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Ventas</h4>
+                                    <h4 class="mb-0 font-size-18">Info. MiTienda</h4>
 
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="panel.php">Multiarticulos Perú</a></li>
-                                            <li class="breadcrumb-item active">Ventas</li>
+                                            <li class="breadcrumb-item active">Info. MiTienda</li>
                                         </ol>
                                     </div>
                                     
@@ -103,74 +103,46 @@
                             </div>
                         </div>     
                         <!-- end page title -->
-                        
+
                         <div class="row">
-                        <div class="col-12">
-                            <div class="card">
-                                <div class="card-body">
+                            <div class="col-12">
+                                <div class="card">
+                                    <div class="card-body">
 
-                                    <h4 class="card-title"></h4>
-                                    <p class="card-subtitle mb-4">
-                                    </p>
+                                        <h4 class="card-title"></h4>
+                                        <p class="card-subtitle mb-4">
+                                        </p>
 
-                                    <table id="selection-datatable" class="table dt-responsive nowrap">
+                                        <table id="selection-datatable" class="table dt-responsive nowrap">
                                         <thead>
-                                            <tr>
-                                                <th>#</th>
-                                                <th>Venta</th>
-                                                <th>Fecha</th>
-                                                <th>Cliente</th>
-                                                <th>Total</th>
-                                                <th>Productos</th>
-                                                <th>Estado</th>
-                                                <th>Estado</th>
-                                                <th>Acciones</th>
-                                            </tr>
-                                        </thead>
+                                                <tr>
+                                                    <th>Nombre</th>
+                                                    <th>Telf.</th>
+                                                    <th>Correo</th>
+                                                    <th>Direccion</th>
+                                                    <th>Facebook</th>
+                                                    <th>Tiktok</th>
+                                                </tr>
+                                            </thead>
+                                        
+                                        
+                                            <tbody>
+                                                <tr>
+                                                    <td>Admin</td>
+                                                    <td>912345678</td>
+                                                    <td>admin@gmail.com</td>
+                                                    <td>Admin</td>
+                                                    <td>Admin123</td>
+                                                    <td>Botones</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
                                     
-                                    
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>50</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>63</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>61</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                
-                                </div> <!-- end card body-->
-                            </div> <!-- end card -->
-                        </div><!-- end col-->
-                    </div>
-                    <!-- end row-->
+                                    </div> <!-- end card body-->
+                                </div> <!-- end card -->
+                            </div><!-- end col-->
+                        </div>
+                        <!-- end row-->
                         
                     </div> <!-- container-fluid -->
                 </div>

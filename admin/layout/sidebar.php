@@ -55,7 +55,7 @@
                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
                         class="fas fa-dollar-sign"></i><span>Compras</span></a>
                 <ul class="sub-menu" aria-expanded="false">
-                    <li><a href="lista_compras">Lista de Compras</a></li>
+                    <li><a href="lista_compras.php">Lista de Compras</a></li>
                 </ul>
             </li>
 
@@ -71,19 +71,19 @@
 
             <li>
                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                        class="fas fa-dollar-sign"></i><span>Mi Tienda</span></a>
+                        class="fas fa-store"></i><span>Mi Tienda</span></a>
                 <ul class="sub-menu" aria-expanded="false">
                     <li><a href="info_mitienda.php">Info. Mi Tienda</a></li>
                 </ul>
             </li>
 
             <li>
-                <a href="punto_venta" class="waves-effect"><i class="fas fa-tachometer-alt"></i><span>Punto de Venta</span></a>
+                <a href="punto_venta.php" class="waves-effect"><i class="fas fa-cash-register"></i><span>Punto de Venta</span></a>
             </li>
 
             <li>
                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                        class="fas fa-dollar-sign"></i><span>Más Canales de Venta</span></a>
+                        class="fas fa-share-alt"></i><span>Más Canales de Venta</span></a>
                 <ul class="sub-menu" aria-expanded="false">
                     <li><a href="publicar_facebook.php">Facebook / Meta</a></li>
                     <li><a href="publicar_instagram.php">Instagram / Meta</a></li>
@@ -95,7 +95,7 @@
 
             <li>
                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                        class="fas fa-dollar-sign"></i><span>Configuracion</span></a>
+                        class="fas fa-cogs"></i><span>Configuracion</span></a>
                 <ul class="sub-menu" aria-expanded="false">
                     <li><a href="formas_entrega.php">Formas de Entrega</a></li>
                     <li><a href="medios_pago.php">Medios de Pago</a></li>

@@ -90,12 +90,12 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Ventas</h4>
+                                    <h4 class="mb-0 font-size-18">Clientes</h4>
 
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="panel.php">Multiarticulos Perú</a></li>
-                                            <li class="breadcrumb-item active">Ventas</li>
+                                            <li class="breadcrumb-item active">Clientes</li>
                                         </ol>
                                     </div>
                                     
@@ -105,72 +105,107 @@
                         <!-- end page title -->
                         
                         <div class="row">
-                        <div class="col-12">
-                            <div class="card">
-                                <div class="card-body">
+                            <div class="col-12">
+                                <div class="card">
+                                    <div class="card-body">
 
-                                    <h4 class="card-title"></h4>
-                                    <p class="card-subtitle mb-4">
-                                    </p>
+                                        <h4 class="card-title"></h4>
+                                        <p class="card-subtitle mb-4">
+                                            
+                                        </p>
 
-                                    <table id="selection-datatable" class="table dt-responsive nowrap">
-                                        <thead>
-                                            <tr>
-                                                <th>#</th>
-                                                <th>Venta</th>
-                                                <th>Fecha</th>
-                                                <th>Cliente</th>
-                                                <th>Total</th>
-                                                <th>Productos</th>
-                                                <th>Estado</th>
-                                                <th>Estado</th>
-                                                <th>Acciones</th>
-                                            </tr>
-                                        </thead>
-                                    
-                                    
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>50</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>63</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>61</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                
-                                </div> <!-- end card body-->
-                            </div> <!-- end card -->
-                        </div><!-- end col-->
-                    </div>
-                    <!-- end row-->
+                                        <table id="datatable-buttons" class="table table-striped dt-responsive nowrap">
+                                            <thead>
+                                                <tr>
+                                                    <th>Nombre</th>
+                                                    <th>Ultima Compra</th>
+                                                    <th>Total Consumido</th>
+                                                    <th>Acciones</th>
+                                                </tr>
+                                            </thead>
+                                        
+                                        
+                                            <tbody>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>Whats-edit-delete</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Angel Chocca</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tiger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Ziger Nixon</td>
+                                                    <td>Producto</td>
+                                                    <td>S/.320,800</td>
+                                                    <td>61</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        
+                                    </div> <!-- end card body-->
+                                </div> <!-- end card -->
+                            </div><!-- end col-->
+                        </div>
+                        <!-- end row-->
                         
                     </div> <!-- container-fluid -->
                 </div>

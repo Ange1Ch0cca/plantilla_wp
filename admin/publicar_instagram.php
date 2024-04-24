@@ -86,91 +86,38 @@
                 <div class="page-content">
                     <div class="container-fluid">
 
-                        <!-- start page title -->
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Ventas</h4>
-
-                                    <div class="page-title-right">
-                                        <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="panel.php">Multiarticulos Perú</a></li>
-                                            <li class="breadcrumb-item active">Ventas</li>
-                                        </ol>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                        </div>     
-                        <!-- end page title -->
-                        
-                        <div class="row">
+                    <div class="row">
                         <div class="col-12">
-                            <div class="card">
-                                <div class="card-body">
+                            <div class="d-flex align-items-center min-vh-100">
+                                <div class="w-100 d-block bg-white shadow-lg rounded my-5">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="p-5">
+                                                <div class="text-center mb-5">
+                                                    <a href="index.html" class="text-dark font-size-22 font-family-secondary">
+                                                        <img src="assets/images/Logo_evoluti.png" width="30px" alt="Logo"> <b style="color: #283C50;">EvoluTI Perú</b>
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="text-center">
+                                                    <img src="assets/images/maintenance.svg" alt="error" height="180">
+                                                    <h1 class="h4 mb-3 mt-4">El Sitio esta en Mantenimiento</h1>
+                                                    <p class="text-muted mb-4 w-75 m-auto">Estamos haciendo que el sistema sea más asombroso. Regresaremos en un momento. </p>
+                                                </div>
 
-                                    <h4 class="card-title"></h4>
-                                    <p class="card-subtitle mb-4">
-                                    </p>
-
-                                    <table id="selection-datatable" class="table dt-responsive nowrap">
-                                        <thead>
-                                            <tr>
-                                                <th>#</th>
-                                                <th>Venta</th>
-                                                <th>Fecha</th>
-                                                <th>Cliente</th>
-                                                <th>Total</th>
-                                                <th>Productos</th>
-                                                <th>Estado</th>
-                                                <th>Estado</th>
-                                                <th>Acciones</th>
-                                            </tr>
-                                        </thead>
-                                    
-                                    
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>50</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>63</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>Online</td>
-                                                <td>2011/04/25</td>
-                                                <td>Tiger Nixon</td>
-                                                <td>$320,800</td>
-                                                <td>61</td>
-                                                <td>Entregado</td>
-                                                <td>Pagado</td>
-                                                <td>2</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                
-                                </div> <!-- end card body-->
-                            </div> <!-- end card -->
-                        </div><!-- end col-->
-                    </div>
-                    <!-- end row-->
+                                                <div class="row mt-4">
+                                                    <div class="col-12 text-center">
+                                                        <a target="_blank" href="https://wa.link/v3eggg" class="btn btn-success"><i class="fab fa-whatsapp mr-2"></i>Comunicarme con la Empresa</a>
+                                                    </div> <!-- end col -->
+                                                </div>
+                                                <!-- end row -->
+                                            </div> <!-- end .padding-5 -->
+                                        </div> <!-- end col -->
+                                    </div> <!-- end row -->
+                                </div> <!-- end .w-100 -->
+                            </div> <!-- end .d-flex -->
+                        </div> <!-- end col-->
+                    </div> <!-- end row -->
                         
                     </div> <!-- container-fluid -->
                 </div>
