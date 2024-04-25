@@ -5,9 +5,9 @@
 
     <div class="navbar-brand-box">
         <a href="panel.php" class="logo">
-            <i class="mdi mdi-"></i>
+            <i><img width="40px" src="assets/images/logo_tienda.png" alt=""></i>
             <span>
-                Logo
+                <img width="160px" src="assets/images/nombre_logo.png" alt="">
             </span>
         </a>
     </div>
