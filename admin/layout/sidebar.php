@@ -103,7 +103,7 @@
                     <li><a href="mensaje_whatsapp.php">WhatsApp</a></li>
                     <li><a href="mensaje_informativo.php">Mensaje Informativo</a></li>
                     <li class="menu-title">Configuraciones Avanzadas</li>
-                    <li><a href="opciones_checkout">Opciones del Checkout</a></li>
+                    <li><a href="opciones_checkout.php">Opciones del Checkout</a></li>
                 </ul>
             </li>
 
